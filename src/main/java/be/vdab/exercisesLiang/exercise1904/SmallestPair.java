@@ -1,7 +1,7 @@
-package be.vdab.exercise1904;
+package be.vdab.exercisesLiang.exercise1904;
 
 
-import be.vdab.exercise1903.Pair;
+import be.vdab.exercisesLiang.exercise1903.Pair;
 
 public class SmallestPair {
     public static void main(String[] args) {

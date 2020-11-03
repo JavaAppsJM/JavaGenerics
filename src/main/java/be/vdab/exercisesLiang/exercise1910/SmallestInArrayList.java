@@ -1,4 +1,4 @@
-package be.vdab.exercise1910;
+package be.vdab.exercisesLiang.exercise1910;
 
 import java.util.ArrayList;
 

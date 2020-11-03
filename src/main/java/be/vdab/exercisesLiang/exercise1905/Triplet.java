@@ -1,6 +1,6 @@
-package be.vdab.exercise1905;
+package be.vdab.exercisesLiang.exercise1905;
 
-import be.vdab.exercise1903.Pair;
+import be.vdab.exercisesLiang.exercise1903.Pair;
 
 public class Triplet<E> extends Pair<E> {
     private E attribute3;

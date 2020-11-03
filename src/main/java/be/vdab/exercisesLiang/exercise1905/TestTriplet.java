@@ -1,6 +1,4 @@
-package be.vdab.exercise1905;
-
-import be.vdab.exercise1903.Pair;
+package be.vdab.exercisesLiang.exercise1905;
 
 public class TestTriplet {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package be.vdab.exercise1903;
+package be.vdab.exercisesLiang.exercise1903;
 
 public class Pair<E> {
     private E attribute1;
